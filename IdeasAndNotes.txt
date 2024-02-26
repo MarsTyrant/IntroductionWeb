@@ -1,0 +1,1 @@
+- Style the box (different text color, different background color) when the mouse over person description
